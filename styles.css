@@ -42,3 +42,12 @@ button:disabled {
     background-color: #cccccc;
     cursor: not-allowed;
 }
+
+p {
+    font-size: 1.5rem; /* Text size chota karne ke liye */
+    color: #333; /* Optional: Text color dark grey */
+}
+
+.large-emoji {
+    font-size: 10rem; /* Emoji size bada karne ke liye */
+}
